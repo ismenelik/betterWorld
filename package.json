@@ -1,0 +1,27 @@
+{
+  "name": "betterworld",
+  "version": "1.0.0",
+  "description": "summer reading ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismenelik/betterWorld.git"
+  },
+  "keywords": [
+    "reading",
+    "summer",
+    "library"
+  ],
+  "author": "ivans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismenelik/betterWorld/issues"
+  },
+  "homepage": "https://github.com/ismenelik/betterWorld#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
