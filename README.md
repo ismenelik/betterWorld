@@ -31,3 +31,5 @@
 # DEV TOOLS
 
 1. IDE (INTELLIJ)
+
+2. GIT
